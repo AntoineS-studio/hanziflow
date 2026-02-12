@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="fr">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>HanziFlow</title>
+    <!-- FAVICON -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+<div class="brand">
+  <div class="logo">
+    <img src="china-flag.png" alt="Drapeau chinois" />
+  </div>
+  <div class="brand-text">
+    <div class="title">HanziFlow</div>
+
+    <!-- Badge déplacé ici -->
+    <div class="badge-count">
+      📚 <span id="total">330</span> mots
+    </div>
+  </div>
+</div>
+
+
+      <div class="controls">
+        <label class="select">
+          <span>Mode</span>
+          <select id="mode">
+            <option value="cn_to_fr">Chinois → Français</option>
+            <option value="fr_to_cn">Français → Chinois</option>
+            <option value="mixed">Mix</option>
+          </select>
+        </label>
+
+        <label class="select">
+          <span>Difficulté</span>
+          <select id="difficulty">
+            <option value="normal">Normal</option>
+            <option value="hard">Hard (leurres + proches)</option>
+          </select>
+        </label>
+  </div>
+
+    </header>
+
+<main class="card">
+  <div class="stats-row">
+    <div class="stats">
+      <div class="pill">✅ <span id="correct">0</span></div>
+      <div class="pill">❌ <span id="wrong">0</span></div>
+      <div class="pill">🔥 Streak <span id="streak">0</span></div>
+
+      <button id="reset" class="btn btn-select" type="button">
+        <img src="icons/restart.svg" alt="" class="btn-icon" aria-hidden="true" />
+        <span>Reset stats</span>
+      </button>
+    </div>
+  </div>
+
+  <div class="question">
+<div class="q-label-row">
+  <div class="q-label" id="qLabel">Traduction en français</div>
+
+  <label class="toggle toggle-check toggle-pinyin">
+    <span>Afficher le pinyin</span>
+    <input id="togglePinyin" type="checkbox" />
+    <span class="slider"></span>
+  </label>
+</div>
+
+
+
+    <div class="q-text-row">
+      <div class="q-text" id="qText">…</div>
+      <button id="ttsBtn" class="tts-btn" type="button" aria-label="Écouter la prononciation">
+        <img src="icons/ear_sound.svg" alt="" class="tts-icon" aria-hidden="true" />
+      </button>
+    </div>
+
+    <div class="q-sub-row">
+      <div class="q-sub" id="qSub">
+        <span id="pinyinText"></span>
+        <button id="revealPinyin" class="reveal" type="button" hidden>👁️ Afficher le pinyin</button>
+      </div>
+    </div>
+
+    <div class="answers" id="answers"></div>
+    <div class="feedback" id="feedback" aria-live="polite"></div>
+
+    <div class="actions-row">
+      <label class="toggle theme-toggle" title="Changer de thème">
+        <input id="toggleTheme" type="checkbox" />
+        <span class="slider"></span>
+      </label>
+
+      <div class="actions">
+        <button id="skip" class="btn ghost" type="button">Passer</button>
+        <button id="next" class="btn primary" type="button" disabled>Suivant</button>
+      </div>
+    </div>
+  </div>
+</main>
+
+
+    <footer class="footer">
+      <div class="hint">
+        Astuce : utilise la touche <kbd>1</kbd>..<kbd>4</kbd> pour répondre vite.
+      </div>
+    </footer>
+  </div>
+
+  <script src="vocab.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

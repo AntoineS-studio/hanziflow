@@ -1,0 +1,1652 @@
+[
+  {
+    "fr": "je/moi",
+    "pinyin": "wǒ",
+    "hanzi": "我"
+  },
+  {
+    "fr": "tu/toi",
+    "pinyin": "nǐ",
+    "hanzi": "你"
+  },
+  {
+    "fr": "il/elle",
+    "pinyin": "tā",
+    "hanzi": "他/她/它"
+  },
+  {
+    "fr": "nous",
+    "pinyin": "wǒmen",
+    "hanzi": "我们"
+  },
+  {
+    "fr": "vous",
+    "pinyin": "nǐmen",
+    "hanzi": "你们"
+  },
+  {
+    "fr": "ils/elles",
+    "pinyin": "tāmen",
+    "hanzi": "他们/她们/它们"
+  },
+  {
+    "fr": "ceci",
+    "pinyin": "zhè",
+    "hanzi": "这"
+  },
+  {
+    "fr": "cela",
+    "pinyin": "nà",
+    "hanzi": "那"
+  },
+  {
+    "fr": "ces",
+    "pinyin": "zhèxiē",
+    "hanzi": "这些"
+  },
+  {
+    "fr": "Ceux-là / Celles-là / Ces... (éloignés)",
+    "pinyin": "nàxiē",
+    "hanzi": "那些"
+  },
+  {
+    "fr": "ici",
+    "pinyin": "zhèlǐ",
+    "hanzi": "这里"
+  },
+  {
+    "fr": "là-bas",
+    "pinyin": "nàlǐ",
+    "hanzi": "那里"
+  },
+  {
+    "fr": "Chine",
+    "pinyin": "Zhōngguó",
+    "hanzi": "中国"
+  },
+  {
+    "fr": "langue chinoise",
+    "pinyin": "Zhōngwén",
+    "hanzi": "中文"
+  },
+  {
+    "fr": "personne",
+    "pinyin": "rén",
+    "hanzi": "人"
+  },
+  {
+    "fr": "prénom",
+    "pinyin": "míngzì",
+    "hanzi": "名字"
+  },
+  {
+    "fr": "maman",
+    "pinyin": "māma",
+    "hanzi": "妈妈"
+  },
+  {
+    "fr": "papa",
+    "pinyin": "bàba",
+    "hanzi": "爸爸"
+  },
+  {
+    "fr": "grand frère",
+    "pinyin": "gēge",
+    "hanzi": "哥哥"
+  },
+  {
+    "fr": "petite frère",
+    "pinyin": "dìdi",
+    "hanzi": "弟弟"
+  },
+  {
+    "fr": "grande sœur",
+    "pinyin": "jiějie",
+    "hanzi": "姐姐"
+  },
+  {
+    "fr": "petite sœur",
+    "pinyin": "mèimei",
+    "hanzi": "妹妹"
+  },
+  {
+    "fr": "grand-père",
+    "pinyin": "yéye",
+    "hanzi": "爷爷"
+  },
+  {
+    "fr": "grand-mère",
+    "pinyin": "nǎinai",
+    "hanzi": "奶奶"
+  },
+  {
+    "fr": "ami",
+    "pinyin": "péngyou",
+    "hanzi": "朋友"
+  },
+  {
+    "fr": "enfant",
+    "pinyin": "háizi",
+    "hanzi": "孩子"
+  },
+  {
+    "fr": "endroit",
+    "pinyin": "dìfāng",
+    "hanzi": "地方"
+  },
+  {
+    "fr": "maison/famille",
+    "pinyin": "jiā",
+    "hanzi": "家"
+  },
+  {
+    "fr": "magasin",
+    "pinyin": "shāngdiàn",
+    "hanzi": "商店"
+  },
+  {
+    "fr": "argent",
+    "pinyin": "qián",
+    "hanzi": "钱"
+  },
+  {
+    "fr": "travail",
+    "pinyin": "gōngzuò",
+    "hanzi": "工作"
+  },
+  {
+    "fr": "appartement",
+    "pinyin": "gōngyù",
+    "hanzi": "公寓"
+  },
+  {
+    "fr": "pièce",
+    "pinyin": "fángjiān",
+    "hanzi": "房间"
+  },
+  {
+    "fr": "voiture",
+    "pinyin": "chē",
+    "hanzi": "车"
+  },
+  {
+    "fr": "route",
+    "pinyin": "lù",
+    "hanzi": "路"
+  },
+  {
+    "fr": "eau",
+    "pinyin": "shuǐ",
+    "hanzi": "水"
+  },
+  {
+    "fr": "thé",
+    "pinyin": "chá",
+    "hanzi": "茶"
+  },
+  {
+    "fr": "café",
+    "pinyin": "kāfēi",
+    "hanzi": "咖啡"
+  },
+  {
+    "fr": "plat",
+    "pinyin": "fàn",
+    "hanzi": "饭"
+  },
+  {
+    "fr": "électricité",
+    "pinyin": "diàn",
+    "hanzi": "电"
+  },
+  {
+    "fr": "téléphone portable",
+    "pinyin": "shǒujī",
+    "hanzi": "手机"
+  },
+  {
+    "fr": "livre",
+    "pinyin": "shū",
+    "hanzi": "书"
+  },
+  {
+    "fr": "aujourd'hui",
+    "pinyin": "jīntiān",
+    "hanzi": "今天"
+  },
+  {
+    "fr": "demain",
+    "pinyin": "míngtiān",
+    "hanzi": "明天"
+  },
+  {
+    "fr": "hier",
+    "pinyin": "zuótiān",
+    "hanzi": "昨天"
+  },
+  {
+    "fr": "après-demain",
+    "pinyin": "hòutiān",
+    "hanzi": "后天"
+  },
+  {
+    "fr": "temps",
+    "pinyin": "shíjiān",
+    "hanzi": "时间"
+  },
+  {
+    "fr": "minute",
+    "pinyin": "fēnzhōng",
+    "hanzi": "分钟"
+  },
+  {
+    "fr": "année",
+    "pinyin": "nián",
+    "hanzi": "年"
+  },
+  {
+    "fr": "mois",
+    "pinyin": "yuè",
+    "hanzi": "月"
+  },
+  {
+    "fr": "jour",
+    "pinyin": "rì",
+    "hanzi": "日"
+  },
+  {
+    "fr": "semaine",
+    "pinyin": "xīngqī",
+    "hanzi": "星期"
+  },
+  {
+    "fr": "intérieur",
+    "pinyin": "lǐmiàn",
+    "hanzi": "里面"
+  },
+  {
+    "fr": "extérieur",
+    "pinyin": "wàimiàn",
+    "hanzi": "外面"
+  },
+  {
+    "fr": "classificateur général",
+    "pinyin": "gè",
+    "hanzi": "个"
+  },
+  {
+    "fr": "faire",
+    "pinyin": "zuò",
+    "hanzi": "做"
+  },
+  {
+    "fr": "être",
+    "pinyin": "shì",
+    "hanzi": "是"
+  },
+  {
+    "fr": "avoir",
+    "pinyin": "yǒu",
+    "hanzi": "有"
+  },
+  {
+    "fr": "aller",
+    "pinyin": "qù",
+    "hanzi": "去"
+  },
+  {
+    "fr": "venir",
+    "pinyin": "lái",
+    "hanzi": "来"
+  },
+  {
+    "fr": "retourner",
+    "pinyin": "huí",
+    "hanzi": "回"
+  },
+  {
+    "fr": "penser/avoir envie de",
+    "pinyin": "xiǎng",
+    "hanzi": "想"
+  },
+  {
+    "fr": "vouloir",
+    "pinyin": "yào",
+    "hanzi": "要"
+  },
+  {
+    "fr": "manger",
+    "pinyin": "chī",
+    "hanzi": "吃"
+  },
+  {
+    "fr": "boire",
+    "pinyin": "hē",
+    "hanzi": "喝"
+  },
+  {
+    "fr": "parler",
+    "pinyin": "shuō",
+    "hanzi": "说"
+  },
+  {
+    "fr": "regarder",
+    "pinyin": "kàn",
+    "hanzi": "看"
+  },
+  {
+    "fr": "écouter",
+    "pinyin": "tīng",
+    "hanzi": "听"
+  },
+  {
+    "fr": "rencontrer",
+    "pinyin": "jiàn",
+    "hanzi": "见"
+  },
+  {
+    "fr": "appeler",
+    "pinyin": "jiào",
+    "hanzi": "叫"
+  },
+  {
+    "fr": "donner",
+    "pinyin": "gěi",
+    "hanzi": "给"
+  },
+  {
+    "fr": "frapper/jouer",
+    "pinyin": "dǎ",
+    "hanzi": "打"
+  },
+  {
+    "fr": "acheter",
+    "pinyin": "mǎi",
+    "hanzi": "买"
+  },
+  {
+    "fr": "Vendre",
+    "pinyin": "mài",
+    "hanzi": "卖"
+  },
+  {
+    "fr": "arriver",
+    "pinyin": "dào",
+    "hanzi": "到"
+  },
+  {
+    "fr": "attendre",
+    "pinyin": "děng",
+    "hanzi": "等"
+  },
+  {
+    "fr": "apprendre",
+    "pinyin": "xué",
+    "hanzi": "学"
+  },
+  {
+    "fr": "aimer",
+    "pinyin": "xǐhuan",
+    "hanzi": "喜欢"
+  },
+  {
+    "fr": "ajouter",
+    "pinyin": "jiā",
+    "hanzi": "加"
+  },
+  {
+    "fr": "trouver",
+    "pinyin": "zhǎo",
+    "hanzi": "找"
+  },
+  {
+    "fr": "bien",
+    "pinyin": "hǎo",
+    "hanzi": "好"
+  },
+  {
+    "fr": "mauvais",
+    "pinyin": "huài",
+    "hanzi": "坏"
+  },
+  {
+    "fr": "grand",
+    "pinyin": "dà",
+    "hanzi": "大"
+  },
+  {
+    "fr": "petit",
+    "pinyin": "xiǎo",
+    "hanzi": "小"
+  },
+  {
+    "fr": "beaucoup",
+    "pinyin": "duō",
+    "hanzi": "多"
+  },
+  {
+    "fr": "peu",
+    "pinyin": "shǎo",
+    "hanzi": "少"
+  },
+  {
+    "fr": "loin",
+    "pinyin": "yuǎn",
+    "hanzi": "远"
+  },
+  {
+    "fr": "près",
+    "pinyin": "jìn",
+    "hanzi": "近"
+  },
+  {
+    "fr": "chaud",
+    "pinyin": "rè",
+    "hanzi": "热"
+  },
+  {
+    "fr": "froid",
+    "pinyin": "lěng",
+    "hanzi": "冷"
+  },
+  {
+    "fr": "garçon",
+    "pinyin": "nán",
+    "hanzi": "男"
+  },
+  {
+    "fr": "fille",
+    "pinyin": "nǚ",
+    "hanzi": "女"
+  },
+  {
+    "fr": "beau",
+    "pinyin": "piàoliang",
+    "hanzi": "漂亮"
+  },
+  {
+    "fr": "content",
+    "pinyin": "gāoxìng",
+    "hanzi": "高兴"
+  },
+  {
+    "fr": "intéressant",
+    "pinyin": "yǒuyìsi",
+    "hanzi": "有意思"
+  },
+  {
+    "fr": "très",
+    "pinyin": "hěn",
+    "hanzi": "很"
+  },
+  {
+    "fr": "trop",
+    "pinyin": "tài",
+    "hanzi": "太"
+  },
+  {
+    "fr": "à la fois",
+    "pinyin": "yòu",
+    "hanzi": "又"
+  },
+  {
+    "fr": "mais",
+    "pinyin": "dànshì",
+    "hanzi": "但是"
+  },
+  {
+    "fr": "ne... pas",
+    "pinyin": "bù",
+    "hanzi": "不"
+  },
+  {
+    "fr": "et",
+    "pinyin": "hé",
+    "hanzi": "和"
+  },
+  {
+    "fr": "mais",
+    "pinyin": "dàn",
+    "hanzi": "但"
+  },
+  {
+    "fr": "parce que",
+    "pinyin": "yīnwèi",
+    "hanzi": "因为"
+  },
+  {
+    "fr": "donc",
+    "pinyin": "suǒyǐ",
+    "hanzi": "所以"
+  },
+  {
+    "fr": "ou (affirmation)",
+    "pinyin": "huòzhě",
+    "hanzi": "或者"
+  },
+  {
+    "fr": "ou (question)",
+    "pinyin": "háishi",
+    "hanzi": "还是"
+  },
+  {
+    "fr": "si",
+    "pinyin": "rúguǒ",
+    "hanzi": "如果"
+  },
+  {
+    "fr": "par exemple",
+    "pinyin": "bǐrú",
+    "hanzi": "比如"
+  },
+  {
+    "fr": "alors",
+    "pinyin": "rán'ér",
+    "hanzi": "然而"
+  },
+  {
+    "fr": "euh...",
+    "pinyin": "nèige",
+    "hanzi": "那个"
+  },
+  {
+    "fr": "téléphone",
+    "pinyin": "diànhuà",
+    "hanzi": "电话"
+  },
+  {
+    "fr": "heure",
+    "pinyin": "xiǎoshí",
+    "hanzi": "小时"
+  },
+  {
+    "fr": "pain",
+    "pinyin": "miànbāo",
+    "hanzi": "面包"
+  },
+  {
+    "fr": "chat",
+    "pinyin": "māo",
+    "hanzi": "猫"
+  },
+  {
+    "fr": "unité monétaire (formel)",
+    "pinyin": "yuán",
+    "hanzi": "元"
+  },
+  {
+    "fr": "unité monétaire (familier)",
+    "pinyin": "kuài",
+    "hanzi": "块"
+  },
+  {
+    "fr": "alors/cependant",
+    "pinyin": "rán’ér",
+    "hanzi": "然而"
+  },
+  {
+    "fr": "quoi / que",
+    "pinyin": "shénme",
+    "hanzi": "什么"
+  },
+  {
+    "fr": "qui",
+    "pinyin": "shéi",
+    "hanzi": "谁"
+  },
+  {
+    "fr": "quand",
+    "pinyin": "shénme shíhou",
+    "hanzi": "什么时候"
+  },
+  {
+    "fr": "comment",
+    "pinyin": "zěnme",
+    "hanzi": "怎么"
+  },
+  {
+    "fr": "pourquoi",
+    "pinyin": "wèishénme",
+    "hanzi": "为什么"
+  },
+  {
+    "fr": "merci",
+    "pinyin": "xièxie",
+    "hanzi": "谢谢"
+  },
+  {
+    "fr": "de rien / pas de souci",
+    "pinyin": "bú kèqi",
+    "hanzi": "不客气"
+  },
+  {
+    "fr": "pardon / excusez-moi",
+    "pinyin": "duìbuqǐ",
+    "hanzi": "对不起"
+  },
+  {
+    "fr": "pas grave",
+    "pinyin": "méi guānxi",
+    "hanzi": "没关系"
+  },
+  {
+    "fr": "d'accord / OK",
+    "pinyin": "hǎo de",
+    "hanzi": "好的"
+  },
+  {
+    "fr": "bonjour",
+    "pinyin": "nǐ hǎo",
+    "hanzi": "你好"
+  },
+  {
+    "fr": "au revoir",
+    "pinyin": "zàijiàn",
+    "hanzi": "再见"
+  },
+  {
+    "fr": "pouvoir (capacité)",
+    "pinyin": "néng",
+    "hanzi": "能"
+  },
+  {
+    "fr": "pouvoir (autorisation)",
+    "pinyin": "kěyǐ",
+    "hanzi": "可以"
+  },
+  {
+    "fr": "devoir / should",
+    "pinyin": "yīnggāi",
+    "hanzi": "应该"
+  },
+  {
+    "fr": "comprendre",
+    "pinyin": "dǒng",
+    "hanzi": "懂"
+  },
+  {
+    "fr": "connaître / rencontrer",
+    "pinyin": "rènshi",
+    "hanzi": "认识"
+  },
+  {
+    "fr": "aimer (sentimental)",
+    "pinyin": "ài",
+    "hanzi": "爱"
+  },
+  {
+    "fr": "jeter",
+    "pinyin": "rēngdiào",
+    "hanzi": "扔掉"
+  },
+  {
+    "fr": "1",
+    "pinyin": "yī",
+    "hanzi": "一"
+  },
+  {
+    "fr": "2",
+    "pinyin": "èr",
+    "hanzi": "二"
+  },
+  {
+    "fr": "3",
+    "pinyin": "sān",
+    "hanzi": "三"
+  },
+  {
+    "fr": "4",
+    "pinyin": "sì",
+    "hanzi": "四"
+  },
+  {
+    "fr": "5",
+    "pinyin": "wǔ",
+    "hanzi": "五"
+  },
+  {
+    "fr": "6",
+    "pinyin": "liù",
+    "hanzi": "六"
+  },
+  {
+    "fr": "7",
+    "pinyin": "qī",
+    "hanzi": "七"
+  },
+  {
+    "fr": "8",
+    "pinyin": "bā",
+    "hanzi": "八"
+  },
+  {
+    "fr": "9",
+    "pinyin": "jiǔ",
+    "hanzi": "九"
+  },
+  {
+    "fr": "10",
+    "pinyin": "shí",
+    "hanzi": "十"
+  },
+  {
+    "fr": "matin",
+    "pinyin": "zǎoshàng",
+    "hanzi": "早上"
+  },
+  {
+    "fr": "midi",
+    "pinyin": "zhōngwǔ",
+    "hanzi": "中午"
+  },
+  {
+    "fr": "soir",
+    "pinyin": "wǎnshàng",
+    "hanzi": "晚上"
+  },
+  {
+    "fr": "petit-déjeuner",
+    "pinyin": "zǎofàn",
+    "hanzi": "早饭"
+  },
+  {
+    "fr": "déjeuner",
+    "pinyin": "wǔfàn",
+    "hanzi": "午饭"
+  },
+  {
+    "fr": "dîner",
+    "pinyin": "wǎnfàn",
+    "hanzi": "晚饭"
+  },
+  {
+    "fr": "médecin",
+    "pinyin": "yīshēng",
+    "hanzi": "医生"
+  },
+  {
+    "fr": "avocat (profession)",
+    "pinyin": "lǜshī",
+    "hanzi": "律师"
+  },
+  {
+    "fr": "étudiant",
+    "pinyin": "xuéshēng",
+    "hanzi": "学生"
+  },
+  {
+    "fr": "professeur",
+    "pinyin": "lǎoshī",
+    "hanzi": "老师"
+  },
+  {
+    "fr": "serveur",
+    "pinyin": "fúwùyuán",
+    "hanzi": "服务员"
+  },
+  {
+    "fr": "tofu",
+    "pinyin": "dòufu",
+    "hanzi": "豆腐"
+  },
+  {
+    "fr": "riz (cuit)",
+    "pinyin": "fàn",
+    "hanzi": "饭"
+  },
+  {
+    "fr": "soupe",
+    "pinyin": "tāng",
+    "hanzi": "汤"
+  },
+  {
+    "fr": "sucre",
+    "pinyin": "táng",
+    "hanzi": "糖"
+  },
+  {
+    "fr": "porridge",
+    "pinyin": "zhōu",
+    "hanzi": "粥"
+  },
+  {
+    "fr": "Amérique",
+    "pinyin": "Měiguó",
+    "hanzi": "美国"
+  },
+  {
+    "fr": "américain",
+    "pinyin": "Měiguó rén",
+    "hanzi": "美国人"
+  },
+  {
+    "fr": "Japon",
+    "pinyin": "Rìběn",
+    "hanzi": "日本"
+  },
+  {
+    "fr": "japonais",
+    "pinyin": "Rìběn rén",
+    "hanzi": "日本人"
+  },
+  {
+    "fr": "France",
+    "pinyin": "Fǎguó",
+    "hanzi": "法国"
+  },
+  {
+    "fr": "français",
+    "pinyin": "Fǎguó rén",
+    "hanzi": "法国人"
+  },
+  {
+    "fr": "Français (langue)",
+    "pinyin": "fǎyǔ",
+    "hanzi": "法语"
+  },
+  {
+    "fr": "Corée",
+    "pinyin": "Hánguó",
+    "hanzi": "韩国"
+  },
+  {
+    "fr": "coréen",
+    "pinyin": "Hánguó rén",
+    "hanzi": "韩国人"
+  },
+  {
+    "fr": "Royaume-Uni",
+    "pinyin": "Yīngguó",
+    "hanzi": "英国"
+  },
+  {
+    "fr": "anglais",
+    "pinyin": "Yīngguó rén",
+    "hanzi": "英国人"
+  },
+  {
+    "fr": "aussi",
+    "pinyin": "yě",
+    "hanzi": "也"
+  },
+  {
+    "fr": "nourriture (plat)",
+    "pinyin": "cài",
+    "hanzi": "菜"
+  },
+  {
+    "fr": "librairie / bookstore",
+    "pinyin": "shūdiàn",
+    "hanzi": "书店"
+  },
+  {
+    "fr": "tasse / cup",
+    "pinyin": "bēi",
+    "hanzi": "杯子"
+  },
+  {
+    "fr": "mathématiques",
+    "pinyin": "shùxué",
+    "hanzi": "数学"
+  },
+  {
+    "fr": "musique",
+    "pinyin": "yīnyuè",
+    "hanzi": "音乐"
+  },
+  {
+    "fr": "Epoux",
+    "pinyin": "lǎogōng",
+    "hanzi": "老公"
+  },
+  {
+    "fr": "Epouse",
+    "pinyin": "lǎopó",
+    "hanzi": "老婆"
+  },
+  {
+    "fr": "fils",
+    "pinyin": "érzi",
+    "hanzi": "儿子"
+  },
+  {
+    "fr": "fille",
+    "pinyin": "nǚ'ér",
+    "hanzi": "女儿"
+  },
+  {
+    "fr": "ma ? (particule interrogative)",
+    "pinyin": "ma",
+    "hanzi": "吗"
+  },
+  {
+    "fr": "avion",
+    "pinyin": "fēijī",
+    "hanzi": "飞机"
+  },
+  {
+    "fr": "Aéroport",
+    "pinyin": "jīchǎng",
+    "hanzi": "机场"
+  },
+  {
+    "fr": "train",
+    "pinyin": "huǒchē",
+    "hanzi": "火车"
+  },
+  {
+    "fr": "gare",
+    "pinyin": "huǒchē zhàn",
+    "hanzi": "火车站"
+  },
+  {
+    "fr": "valise / bagage",
+    "pinyin": "xínglǐ",
+    "hanzi": "行李"
+  },
+  {
+    "fr": "salon",
+    "pinyin": "kètīng",
+    "hanzi": "客厅"
+  },
+  {
+    "fr": "chambre",
+    "pinyin": "wòshì",
+    "hanzi": "卧室"
+  },
+  {
+    "fr": "salle de bain",
+    "pinyin": "xǐshǒujiān",
+    "hanzi": "洗手间"
+  },
+  {
+    "fr": "portefeuille",
+    "pinyin": "qiánbāo",
+    "hanzi": "钱包"
+  },
+  {
+    "fr": "être (localisation)",
+    "pinyin": "zài",
+    "hanzi": "在"
+  },
+  {
+    "fr": "camarade de classe",
+    "pinyin": "tóngxué",
+    "hanzi": "同学"
+  },
+  {
+    "fr": "basket-ball",
+    "pinyin": "lánqiú",
+    "hanzi": "篮球"
+  },
+  {
+    "fr": "football",
+    "pinyin": "zúqiú",
+    "hanzi": "足球"
+  },
+  {
+    "fr": "tennis",
+    "pinyin": "wǎngqiú",
+    "hanzi": "网球"
+  },
+  {
+    "fr": "volley-ball",
+    "pinyin": "páiqiú",
+    "hanzi": "排球"
+  },
+  {
+    "fr": "nage / natation",
+    "pinyin": "yóuyǒng",
+    "hanzi": "游泳"
+  },
+  {
+    "fr": "courir",
+    "pinyin": "pǎobù",
+    "hanzi": "跑步"
+  },
+  {
+    "fr": "souvent",
+    "pinyin": "chángcháng",
+    "hanzi": "常常"
+  },
+  {
+    "fr": "relativement",
+    "pinyin": "bǐjiào",
+    "hanzi": "比较"
+  },
+  {
+    "fr": "pas souvent",
+    "pinyin": "Bù cháng",
+    "hanzi": "不常"
+  },
+  {
+    "fr": "tous / tout / les deux",
+    "pinyin": "dōu",
+    "hanzi": "都"
+  },
+  {
+    "fr": "épicé",
+    "pinyin": "là",
+    "hanzi": "辣"
+  },
+  {
+    "fr": "cher",
+    "pinyin": "guì",
+    "hanzi": "贵"
+  },
+  {
+    "fr": "au moment de",
+    "pinyin": "de shíhou",
+    "hanzi": "的 时候"
+  },
+  {
+    "fr": "bon à manger",
+    "pinyin": "hǎochī",
+    "hanzi": "好吃"
+  },
+  {
+    "fr": "bon à boire",
+    "pinyin": "hǎohē",
+    "hanzi": "好喝"
+  },
+  {
+    "fr": "joli à regarder/beautiful",
+    "pinyin": "hǎokàn",
+    "hanzi": "好看"
+  },
+  {
+    "fr": "agréable à écouter",
+    "pinyin": "hǎotīng",
+    "hanzi": "好听"
+  },
+  {
+    "fr": "très",
+    "pinyin": "fēicháng",
+    "hanzi": "非常"
+  },
+  {
+    "fr": "célèbre",
+    "pinyin": "yǒumíng",
+    "hanzi": "有名"
+  },
+  {
+    "fr": "amusant",
+    "pinyin": "hǎowánr",
+    "hanzi": "好玩儿"
+  },
+  {
+    "fr": "s’amuser / jouer",
+    "pinyin": "wán",
+    "hanzi": "玩"
+  },
+  {
+    "fr": "printemps",
+    "pinyin": "chūntiān",
+    "hanzi": "春天"
+  },
+  {
+    "fr": "été",
+    "pinyin": "xiàtiān",
+    "hanzi": "夏天"
+  },
+  {
+    "fr": "automne",
+    "pinyin": "qiūtiān",
+    "hanzi": "秋天"
+  },
+  {
+    "fr": "hiver",
+    "pinyin": "dōngtiān",
+    "hanzi": "冬天"
+  },
+  {
+    "fr": "désordre",
+    "pinyin": "luàn",
+    "hanzi": "乱"
+  },
+  {
+    "fr": "maison",
+    "pinyin": "fángzi",
+    "hanzi": "房子"
+  },
+  {
+    "fr": "Voisin",
+    "pinyin": "línjū",
+    "hanzi": "邻居"
+  },
+  {
+    "fr": "Bibliothèque",
+    "pinyin": "shūjià",
+    "hanzi": "书架"
+  },
+  {
+    "fr": "Ne... pas (impératif)",
+    "pinyin": "bié",
+    "hanzi": "别"
+  },
+  {
+    "fr": "réfrigérateur",
+    "pinyin": "bīngxiāng",
+    "hanzi": "冰箱"
+  },
+  {
+    "fr": "veux encore / aussi",
+    "pinyin": "háiyào",
+    "hanzi": "还要"
+  },
+  {
+    "fr": "chapeau",
+    "pinyin": "màozi",
+    "hanzi": "帽子"
+  },
+  {
+    "fr": "Lampe",
+    "pinyin": "táidēng",
+    "hanzi": "台灯"
+  },
+  {
+    "fr": "vêtements",
+    "pinyin": "yīfu",
+    "hanzi": "衣服"
+  },
+  {
+    "fr": "Nettoyer / Faire le ménage",
+    "pinyin": "dǎsǎo",
+    "hanzi": "打扫"
+  },
+  {
+    "fr": "d'abord / en premier",
+    "pinyin": "xiān",
+    "hanzi": "先"
+  },
+  {
+    "fr": "essuyer / nettoyer",
+    "pinyin": "cā",
+    "hanzi": "擦"
+  },
+  {
+    "fr": "choses / objets",
+    "pinyin": "dōngxi",
+    "hanzi": "东西"
+  },
+  {
+    "fr": "serpillère / balai",
+    "pinyin": "tuōbǎ",
+    "hanzi": "拖把"
+  },
+  {
+    "fr": "sale",
+    "pinyin": "zāng",
+    "hanzi": "脏"
+  },
+  {
+    "fr": "Lourd",
+    "pinyin": "zhòng",
+    "hanzi": "重"
+  },
+  {
+    "fr": "Lundi",
+    "pinyin": "xīngqī yī",
+    "hanzi": "星期一"
+  },
+  {
+    "fr": "Mardi",
+    "pinyin": "xīngqī èr",
+    "hanzi": "星期二"
+  },
+  {
+    "fr": "Mercredi",
+    "pinyin": "xīngqī sān",
+    "hanzi": "星期三"
+  },
+  {
+    "fr": "Jeudi",
+    "pinyin": "xīngqī sì",
+    "hanzi": "星期四"
+  },
+  {
+    "fr": "Vendredi",
+    "pinyin": "xīngqī wǔ",
+    "hanzi": "星期五"
+  },
+  {
+    "fr": "Samedi",
+    "pinyin": "xīngqī liù",
+    "hanzi": "星期六"
+  },
+  {
+    "fr": "Dimanche",
+    "pinyin": "xīngqī rì (ou tiān)",
+    "hanzi": "星期日 / 星期天"
+  },
+  {
+    "fr": "Journal / Quotidien",
+    "pinyin": "bàozhǐ",
+    "hanzi": "报纸"
+  },
+  {
+    "fr": "Avoir besoin de / Il faut / need",
+    "pinyin": "xūyào",
+    "hanzi": "需要"
+  },
+  {
+    "fr": "Occupé / Débordé",
+    "pinyin": "máng",
+    "hanzi": "忙"
+  },
+  {
+    "fr": "Mignon / Adorable",
+    "pinyin": "kě’ài",
+    "hanzi": "可爱"
+  },
+  {
+    "fr": "Aider / Aide",
+    "pinyin": "bāngzhù",
+    "hanzi": "帮助"
+  },
+  {
+    "fr": "Aider (verbe seul)",
+    "pinyin": "bāng",
+    "hanzi": "帮"
+  },
+  {
+    "fr": "Dormir / Sommeil",
+    "pinyin": "shuìjiào",
+    "hanzi": "睡觉"
+  },
+  {
+    "fr": "Propre / nettoyer",
+    "pinyin": "gānjìng",
+    "hanzi": "干净"
+  },
+  {
+    "fr": "Table",
+    "pinyin": "zhuōzi",
+    "hanzi": "桌子"
+  },
+  {
+    "fr": "Chaise",
+    "pinyin": "yǐzi",
+    "hanzi": "椅子"
+  },
+  {
+    "fr": "Couteau",
+    "pinyin": "dāo",
+    "hanzi": "刀"
+  },
+  {
+    "fr": "Fourchette",
+    "pinyin": "chā",
+    "hanzi": "叉"
+  },
+  {
+    "fr": "Cuillère",
+    "pinyin": "sháozi",
+    "hanzi": "勺子"
+  },
+  {
+    "fr": "Assiette",
+    "pinyin": "pánzi",
+    "hanzi": "盘子"
+  },
+  {
+    "fr": "Peu",
+    "pinyin": "diǎn",
+    "hanzi": "一点"
+  },
+  {
+    "fr": "Légumes",
+    "pinyin": "shūcài",
+    "hanzi": "蔬菜"
+  },
+  {
+    "fr": "Centre commercial",
+    "pinyin": "shāngchǎng",
+    "hanzi": "商场"
+  },
+  {
+    "fr": "Classificateur animaux",
+    "pinyin": "zhī",
+    "hanzi": "只"
+  },
+  {
+    "fr": "action est en cours",
+    "pinyin": "zài + verbe",
+    "hanzi": "在"
+  },
+  {
+    "fr": "Maintenant",
+    "pinyin": "xiànzài",
+    "hanzi": "现在"
+  },
+  {
+    "fr": "Jouer (tirer, frotter)",
+    "pinyin": "lā",
+    "hanzi": "拉"
+  },
+  {
+    "fr": "Vieux / Ancien (objet)",
+    "pinyin": "jiù",
+    "hanzi": "旧"
+  },
+  {
+    "fr": "Utiliser",
+    "pinyin": "yòng",
+    "hanzi": "用"
+  },
+  {
+    "fr": "Avec",
+    "pinyin": "gēn",
+    "hanzi": "跟"
+  },
+  {
+    "fr": "Prochain",
+    "pinyin": "xià",
+    "hanzi": "下"
+  },
+  {
+    "fr": "uniquement",
+    "pinyin": "zhǐ",
+    "hanzi": "只"
+  },
+  {
+    "fr": "cadeau",
+    "pinyin": "lǐwù",
+    "hanzi": "礼物"
+  },
+  {
+    "fr": "inviter",
+    "pinyin": "yāoqǐng",
+    "hanzi": "邀请"
+  },
+  {
+    "fr": "préparer",
+    "pinyin": "zhǔnbèi",
+    "hanzi": "准备"
+  },
+  {
+    "fr": "fête",
+    "pinyin": "pàiduì",
+    "hanzi": "派对"
+  },
+  {
+    "fr": "boisson",
+    "pinyin": "yǐnliào",
+    "hanzi": "饮料"
+  },
+  {
+    "fr": "snack / grignotage",
+    "pinyin": "língshí",
+    "hanzi": "零食"
+  },
+  {
+    "fr": "type / sorte",
+    "pinyin": "zhǒng",
+    "hanzi": "种"
+  },
+  {
+    "fr": "apporter / emmener",
+    "pinyin": "dài",
+    "hanzi": "带"
+  },
+  {
+    "fr": "ensemble",
+    "pinyin": "yìqǐ",
+    "hanzi": "一起"
+  },
+  {
+    "fr": "ne pas se sentir bien",
+    "pinyin": "bù shūfu",
+    "hanzi": "不舒服"
+  },
+  {
+    "fr": "surprise",
+    "pinyin": "jīngxǐ",
+    "hanzi": "惊喜"
+  },
+  {
+    "fr": "dire / informer",
+    "pinyin": "gàosu",
+    "hanzi": "告诉"
+  },
+  {
+    "fr": "Ballon",
+    "pinyin": "qìqiú",
+    "hanzi": "气球"
+  },
+  {
+    "fr": "ouvrir / tenir / organiser",
+    "pinyin": "kāi",
+    "hanzi": "开"
+  },
+  {
+    "fr": "Amour (romantique)",
+    "pinyin": "àiqíng",
+    "hanzi": "爱情"
+  },
+  {
+    "fr": "Intéressant / Amusant",
+    "pinyin": "yǒuqù",
+    "hanzi": "有趣"
+  },
+  {
+    "fr": "visiter (un lieu)",
+    "pinyin": "cānguān",
+    "hanzi": "参观"
+  },
+  {
+    "fr": "librairie",
+    "pinyin": "túshūguǎn",
+    "hanzi": "图书馆"
+  },
+  {
+    "fr": "poisson",
+    "pinyin": "yú",
+    "hanzi": "鱼"
+  },
+  {
+    "fr": "Médicament",
+    "pinyin": "yào",
+    "hanzi": "yào"
+  },
+  {
+    "fr": "À côté de / près de",
+    "pinyin": "pángbiān",
+    "hanzi": "旁边"
+  },
+  {
+    "fr": "Excusez-moi",
+    "pinyin": "qǐngwèn",
+    "hanzi": "请问"
+  },
+  {
+    "fr": "Grand (taille, hauteur)",
+    "pinyin": "gāo",
+    "hanzi": "高"
+  },
+  {
+    "fr": "Vraiment / Réel",
+    "pinyin": "zhēn",
+    "hanzi": "真"
+  },
+  {
+    "fr": "Relativement",
+    "pinyin": "bǐjiào",
+    "hanzi": "比较"
+  },
+  {
+    "fr": "accueillir",
+    "pinyin": "jiēdài",
+    "hanzi": "接待"
+  },
+  {
+    "fr": "présenter",
+    "pinyin": "jièshào",
+    "hanzi": "介绍"
+  },
+  {
+    "fr": "collègue",
+    "pinyin": "tóngshì",
+    "hanzi": "同事"
+  },
+  {
+    "fr": "responsabilité",
+    "pinyin": "zérèn",
+    "hanzi": "责任"
+  },
+  {
+    "fr": "horaires",
+    "pinyin": "shíjiān ānpái",
+    "hanzi": "时间安排"
+  },
+  {
+    "fr": "règles",
+    "pinyin": "guīdìng",
+    "hanzi": "规定"
+  },
+  {
+    "fr": "client",
+    "pinyin": "kèhù",
+    "hanzi": "客户"
+  },
+  {
+    "fr": "inscription",
+    "pinyin": "bàomíng",
+    "hanzi": "报名"
+  },
+  {
+    "fr": "cours",
+    "pinyin": "kèchéng",
+    "hanzi": "课程"
+  },
+  {
+    "fr": "disponible",
+    "pinyin": "yǒu kòng",
+    "hanzi": "有空"
+  },
+  {
+    "fr": "information",
+    "pinyin": "xìnxī",
+    "hanzi": "信息"
+  },
+  {
+    "fr": "expliquer",
+    "pinyin": "shuōmíng",
+    "hanzi": "说明"
+  },
+  {
+    "fr": "investisseur",
+    "pinyin": "tóuzīzhě",
+    "hanzi": "投资者"
+  },
+  {
+    "fr": "produit",
+    "pinyin": "chǎnpǐn",
+    "hanzi": "产品"
+  },
+  {
+    "fr": "procédure",
+    "pinyin": "liúchéng",
+    "hanzi": "流程"
+  },
+  {
+    "fr": "annuler",
+    "pinyin": "qǔxiāo",
+    "hanzi": "取消"
+  },
+  {
+    "fr": "contrat",
+    "pinyin": "hétóng",
+    "hanzi": "合同"
+  },
+  {
+    "fr": "envoyer",
+    "pinyin": "fāsòng",
+    "hanzi": "发送"
+  },
+  {
+    "fr": "email",
+    "pinyin": "diànzǐ yóujiàn",
+    "hanzi": "电子邮件"
+  },
+  {
+    "fr": "confirmer",
+    "pinyin": "quèrèn",
+    "hanzi": "确认"
+  },
+  {
+    "fr": "vidéo",
+    "pinyin": "shìpín",
+    "hanzi": "视频"
+  },
+  {
+    "fr": "document",
+    "pinyin": "wénjiàn",
+    "hanzi": "文件"
+  },
+  {
+    "fr": "tourisme",
+    "pinyin": "lǚyóu",
+    "hanzi": "旅游"
+  },
+  {
+    "fr": "activité",
+    "pinyin": "huódòng",
+    "hanzi": "活动"
+  },
+  {
+    "fr": "Blanc",
+    "pinyin": "bái",
+    "hanzi": "白"
+  },
+  {
+    "fr": "Noir",
+    "pinyin": "hēi",
+    "hanzi": "黑"
+  },
+  {
+    "fr": "Rouge",
+    "pinyin": "hóng",
+    "hanzi": "红"
+  },
+  {
+    "fr": "Bleu",
+    "pinyin": "lán",
+    "hanzi": "蓝"
+  },
+  {
+    "fr": "Vert",
+    "pinyin": "lǜ",
+    "hanzi": "绿"
+  },
+  {
+    "fr": "Jaune",
+    "pinyin": "huáng",
+    "hanzi": "黄"
+  },
+  {
+    "fr": "Orange",
+    "pinyin": "chéng",
+    "hanzi": "橙"
+  },
+  {
+    "fr": "Violet",
+    "pinyin": "zǐ",
+    "hanzi": "紫"
+  },
+  {
+    "fr": "Rose",
+    "pinyin": "fěn",
+    "hanzi": "粉"
+  },
+  {
+    "fr": "Marron",
+    "pinyin": "zōng",
+    "hanzi": "棕"
+  },
+  {
+    "fr": "Gris",
+    "pinyin": "huī",
+    "hanzi": "灰"
+  }
+]
