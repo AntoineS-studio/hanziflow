@@ -186,10 +186,6 @@ label.select select:disabled{ cursor:not-allowed; }
   }
 }
 
-@media (max-width:420px){
-  .controls{ grid-template-columns: 1fr; }
-}
-
 /* Select global */
 select{
   appearance:none;
@@ -665,4 +661,10 @@ html[data-theme="light"] .theme-toggle input:checked + .slider{
 
 @media (max-width:900px){
   .footer .hint{ display:none; }
+}
+.controls{
+  min-width:0;
+}
+label.select{
+  min-width:0;
 }
