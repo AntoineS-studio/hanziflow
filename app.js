@@ -3,6 +3,13 @@
 
 const $ = (id) => document.getElementById(id);
 
+const track = (name, data) => {
+  try {
+    if (window.clarity) window.clarity("event", name, data);
+  } catch {}
+};
+
+
 const state = {
   vocab: [],
   current: null,
@@ -358,11 +365,23 @@ function onAnswer(chosenKey) {
     state.stats.streak++;
     setFeedback("good", `Correct. ${q.correct.hanzi} (${q.correct.pinyin}) = ${q.correct.fr}`);
     playSfx("correct");
+    track("answer_correct", {
+  mode: q.mode,
+  difficulty: state.difficulty,
+  pinyin_enabled: !!state.prefs.showPinyin
+});
+
   } else {
     state.stats.wrong++;
     state.stats.streak = 0;
     setFeedback("bad", `Faux. Réponse : ${q.correct.hanzi} (${q.correct.pinyin}) = ${q.correct.fr}`);
     playSfx("wrong");
+    track("answer_wrong", {
+  mode: q.mode,
+  difficulty: state.difficulty,
+  pinyin_enabled: !!state.prefs.showPinyin
+});
+
   }
 
   saveStats();
@@ -381,8 +400,10 @@ function nextQuestion() {
 }
 
 function skipQuestion() {
+  track("skip_question", { mode: state.mode, difficulty: state.difficulty });
   nextQuestion();
 }
+
 
 let audioUnlocked = false;
 
@@ -428,50 +449,69 @@ applyTheme(state.prefs.theme);
 if ($("toggleTheme")) {
   $("toggleTheme").checked = state.prefs.theme === "light";
 
-  $("toggleTheme").addEventListener("change", (e) => {
-    state.prefs.theme = e.target.checked ? "light" : "dark";
-    savePrefs();
-    applyTheme(state.prefs.theme);
-  });
+$("toggleTheme").addEventListener("change", (e) => {
+  state.prefs.theme = e.target.checked ? "light" : "dark";
+  savePrefs();
+  applyTheme(state.prefs.theme);
+
+  track("toggle_theme", { theme: state.prefs.theme });
+});
+
 }
 
   if ($("togglePinyin")) {
     $("togglePinyin").checked = !!state.prefs.showPinyin;
 
-    $("togglePinyin").addEventListener("change", (e) => {
-      state.prefs.showPinyin = !!e.target.checked;
-      state.pinyinRevealedOnce = false;
-      savePrefs();
+$("togglePinyin").addEventListener("change", (e) => {
+  state.prefs.showPinyin = !!e.target.checked;
+  state.pinyinRevealedOnce = false;
+  savePrefs();
 
-      updatePinyinArea();
-      renderAnswers();
-    });
+  updatePinyinArea();
+  renderAnswers();
+
+  track("toggle_pinyin", { enabled: state.prefs.showPinyin });
+});
+
   }
 
   if ($("revealPinyin")) {
-    $("revealPinyin").addEventListener("click", () => {
-      state.pinyinRevealedOnce = true;
-      updatePinyinArea();
-      renderAnswers();
-    });
+$("revealPinyin").addEventListener("click", () => {
+  state.pinyinRevealedOnce = true;
+  updatePinyinArea();
+  renderAnswers();
+
+  track("reveal_pinyin_once");
+});
+
   }
 
   $("mode").addEventListener("change", (e) => {
-    state.mode = e.target.value;
-    state.pinyinRevealedOnce = false;
-    nextQuestion();
-  });
+  state.mode = e.target.value;
+  state.pinyinRevealedOnce = false;
 
-  $("difficulty").addEventListener("change", (e) => {
-    state.difficulty = e.target.value;
-    state.pinyinRevealedOnce = false;
-    nextQuestion();
-  });
+  track("change_mode", { mode: state.mode });
+
+  nextQuestion();
+});
+
+
+$("difficulty").addEventListener("change", (e) => {
+  state.difficulty = e.target.value;
+  state.pinyinRevealedOnce = false;
+
+  track("change_difficulty", { difficulty: state.difficulty });
+
+  nextQuestion();
+});
+
 
   $("next").addEventListener("click", nextQuestion);
   if ($("skip")) $("skip").addEventListener("click", skipQuestion);
 
 $("reset").addEventListener("click", () => {
+  track("reset_stats");
+
   state.stats = { correct: 0, wrong: 0, streak: 0 };
   saveStats();
   renderStats();
@@ -480,6 +520,7 @@ $("reset").addEventListener("click", () => {
 
   nextQuestion();
 });
+
 
 
   document.addEventListener("keydown", (e) => {
